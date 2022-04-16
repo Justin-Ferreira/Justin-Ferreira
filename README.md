@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - GET IN CONTACT:
-- 💚 Instagram:
-- 💙 Twitter: 
+- 💚 Instagram: @j_ferreira_code
+- 💙 Twitter: @J_Ferreira_Code
 - 📧 Email: justinferreiracode@gmail.com
 - Website: (Not Online)
 
