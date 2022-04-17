@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Justin-Ferreira, 17
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - GET IN CONTACT:
 - 💚 Instagram: @j_ferreira_code
